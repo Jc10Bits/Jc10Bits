@@ -1,6 +1,6 @@
-## Olá, eu sou o Julio 👋
+# Olá, eu sou o Julio 👋
 
-# Sou um desenvolvedor com experiência em Python, especializado em backend e apaixonado pelo mundo da programação. Tenho conhecimentos sólidos em tecnologias como Flask, bancos de dados, Docker, AWS, pytest 🚀
+## Sou um desenvolvedor com experiência em Python, especializado em backend e apaixonado pelo mundo da programação. Tenho conhecimentos sólidos em tecnologias como Flask, bancos de dados, Docker, AWS, pytest 🚀
 
 Tecnologias 🛠️
 - Linguagens: Python 🐍
