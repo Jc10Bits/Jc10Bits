@@ -8,7 +8,7 @@ Sou um desenvolvedor com experiência em Python, especializado em backend e apai
 
 Tecnologias 🛠️
 - Linguagens: Python 🐍
-- Frameworks: Flask 🌶️
+- Frameworks: Flask & Django 🌶️
 - Bancos de Dados: MySQL, PostgreSQL, MongoDB 🗃️
 - Ferramentas: Docker 🐳, Git 🌳
 - Plataformas: AWS (Amazon Web Services) ☁️
