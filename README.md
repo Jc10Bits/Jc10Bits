@@ -3,7 +3,6 @@
 Sou um desenvolvedor com experiência em Python, especializado em backend e apaixonado pelo mundo da programação. Tenho conhecimentos sólidos em tecnologias como Flask, bancos de dados, Docker, AWS, pytest 🚀
 
 ![image](https://github.com/user-attachments/assets/e91f5738-9737-4348-a358-588ef2ce928e) 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jc10Bits&show_icons=true&theme=radical)
 
 
 Tecnologias 🛠️
